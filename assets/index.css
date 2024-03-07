@@ -1,0 +1,8 @@
+@import url('./global.css');
+
+.main-heading {
+    display: flex;
+    min-height: 80vh;
+    align-items: center;
+    background-color: var(--off-white-darker);
+}
